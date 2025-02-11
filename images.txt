@@ -1,5 +1,4 @@
 nginx
-hello-world
 ragflow
 fateryu/rm_vision
 #支持私库
