@@ -1,3 +1,4 @@
+elasticsearch
 valkey/valkey:8
 minio/minio:latest
 infiniflow/ragflow:nightly
