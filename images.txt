@@ -1,3 +1,4 @@
+valkey/valkey:8
 infiniflow/ragflow:nightly
 infiniflow/ragflow:v0.16.0
 mysql:8.0.39
