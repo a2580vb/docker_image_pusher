@@ -1,5 +1,6 @@
 valkey/valkey:8
 infiniflow/ragflow:nightly
+redis:latest
 infiniflow/ragflow:v0.16.0
 mysql:8.0.39
 elasticsearch:8.17.1
