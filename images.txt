@@ -1,4 +1,5 @@
 valkey/valkey:8
+minio/minio:latest
 infiniflow/ragflow:nightly
 redis:latest
 infiniflow/ragflow:v0.16.0
