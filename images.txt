@@ -7,9 +7,7 @@ edwardelric233/ragflow:oc9
 infiniflow/ragflow:v0.16.0
 
 ghcr.io/danny-avila/librechat:latest
-librechat
 ghcr.io/danny-avila/librechat-dev:latest
-ghcr.io/danny-avila/librechat:latest
 ghcr.io/danny-avila/librechat-dev-api:latest
 ghcr.io/danny-avila/librechat-api:latest
 mongo-express
