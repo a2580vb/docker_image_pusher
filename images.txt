@@ -6,6 +6,22 @@ valkey/valkey:8
 edwardelric233/ragflow:oc9
 infiniflow/ragflow:v0.16.0
 
+ghcr.io/danny-avila/librechat:latest
+librechat
+ghcr.io/danny-avila/librechat-dev:latest
+ghcr.io/danny-avila/librechat:latest
+ghcr.io/danny-avila/librechat-dev-api:latest
+ghcr.io/danny-avila/librechat-api:latest
+mongo-express
+mongo:4.4.18
+tianon/true
+ghcr.io/danny-avila/librechat-rag-api-dev:latest
+ollama/ollama:latest
+ghcr.io/berriai/litellm:main-latest
+redis:7-alpine
+ghcr.io/langfuse/langfuse:latest
+postgres
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
